@@ -1,0 +1,49 @@
+---
+title       : Coursera 9 project
+subtitle    : Presentation on risk of stroke prediction app
+author      : 
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+ 
+
+## Slide 2
+
+The app aims to assess our risk of getting a stroke, depending on age and systolic blood pressure, both are significant risk factors for stroke, along with family history, heart disease, diabetes, and others. People aged over 60 and those with high systolic blood pressure (above 140) are at higher risk for developing a stroke.
+
+---
+
+## Slide 3
+
+For simplicity, we are using 2 key risk factors in this app to roughly assess the risk of stroke:
+
+1. age, in years
+
+2. systolic blood pressure, mmHg, mostly people range from 100-140
+
+---
+
+## Slide 4 
+
+My app is at 
+   https://liyanliu818.shinyapps.io/DataProducts
+   
+My ui.R and server.R files are at
+   https://github.com/liyanliu818/coursera9project
+   
+If you are more interested in how to prevent stroke, you can find more info from the Heart and Stroke Foundation at
+   www.heartandstroke.com
+
+---
+
+## Slide 5
+
+I wish you and your loved ones a wonderful holiday season! Eat, Drink, and Be Merry
+
+---
+
